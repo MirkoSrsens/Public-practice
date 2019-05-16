@@ -1,0 +1,7 @@
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\bin\Debug\Spoj.exe.config
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\bin\Debug\Spoj.exe
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\bin\Debug\Spoj.pdb
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.csprojAssemblyReference.cache
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.csproj.CoreCompileInputs.cache
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.exe
+c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.pdb
