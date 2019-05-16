@@ -5,3 +5,10 @@ c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.csprojAssemblyRefer
 c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.csproj.CoreCompileInputs.cache
 c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.exe
 c:\users\mirkokojiradi\source\repos\Spoj\Spoj\obj\Debug\Spoj.pdb
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\bin\Debug\Spoj.exe.config
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\bin\Debug\Spoj.exe
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\bin\Debug\Spoj.pdb
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\obj\Debug\Spoj.csprojAssemblyReference.cache
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\obj\Debug\Spoj.csproj.CoreCompileInputs.cache
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\obj\Debug\Spoj.exe
+C:\Users\MirkoKojiRadi\Documents\GitHub\Public-practice\Spoj\Spoj\obj\Debug\Spoj.pdb
